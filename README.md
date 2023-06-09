@@ -1,2 +1,2 @@
-# Programa-o-responsividade
+# Programação
 Codigos de responsividade, Alura
